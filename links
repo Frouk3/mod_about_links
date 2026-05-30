@@ -1,0 +1,11 @@
+[Social]
+Link[0].Name = "Discord"
+Link[0].URL = "discord.gg/AUJFj5h8Rr"
+Link[1].Name = "YouTube"
+Link[1].URL = "https://www.youtube.com/@frouk3378"
+Link[2].Name = "GitHub"
+Link[2].URL = "https://github.com/Frouk3"
+
+[Donations]
+Link[0].Name = "PayPal"
+Link[0].URL = "https://paypal.me/MykhailoKytsun"
