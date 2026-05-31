@@ -1,6 +1,6 @@
 [Social]
 Link[0].Name = "Discord"
-Link[0].URL = "discord.gg/AUJFj5h8Rr"
+Link[0].URL = "https://discord.gg/AUJFj5h8Rr"
 Link[1].Name = "YouTube"
 Link[1].URL = "https://www.youtube.com/@frouk3378"
 Link[2].Name = "GitHub"
